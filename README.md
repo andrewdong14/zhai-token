@@ -4,8 +4,6 @@ The mission of Zhai(宅) Token project is to build a decentrlised, autonomous an
 
 # Project Resources
 
-* [Remix - Solidity IDE](https://remix.ethereum.org/)
-* [Visual Studio Code](https://code.visualstudio.com/)
 * [Truffle Framework](https://truffleframework.com/)
 * [Ganache - One Click Blockchain](https://truffleframework.com/ganache)
 * [Open Zeppelin ](https://openzeppelin.org/)
