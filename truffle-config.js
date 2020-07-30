@@ -22,8 +22,5 @@ module.exports = {
             timeoutBlocks: 200
         },
     },
-    mocha: {
-
-    },
     plugins: [ "solidity-coverage" ]
 };
