@@ -1,6 +1,6 @@
-# Udacity Blockchain Capstone
+# Zhai Token
 
-The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product. 
+The mission of Zhai(宅) Token project is to build a decentrlised, autonomous and transparent real estate marketplace.
 
 # Project Resources
 
