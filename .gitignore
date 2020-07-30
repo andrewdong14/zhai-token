@@ -2,6 +2,7 @@ node_modules
 generated
 build
 .idea
-eth-contracts/build
+contracts/build
+secrets.json
 
 **/node_modules

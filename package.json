@@ -1,9 +1,14 @@
 {
-  "name": "Zhai-Token",
+  "name": "zhai-token",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "compile": "truffle compile",
+    "test-erc721": "truffle test ./test/TestERC721Mintable.js",
+    "test-square-verifier": "truffle test ./test/TestSquareVerifier.js",
+    "test-soln-square-verifier": "truffle test ./test/TestSolnSquareVerifier.js",
+    "deploy": "truffle migrate --network rinkeby --reset --compile-all",
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,8 +19,11 @@
     "lite-server": "2.5.4"
   },
   "dependencies": {
-    "openzeppelin-solidity": "^3.1.0",
-    "solc": "^0.7.0",
-    "solc-js": "^1.0.1"
+    "@truffle/hdwallet-provider": "^1.0.40",
+    "mocha": "^4.1.0",
+    "openzeppelin-solidity": "^2.2.0",
+    "solc": "^0.5.2",
+    "solc-js": "^0.5.2",
+    "truffle": "^5.0.2"
   }
 }
