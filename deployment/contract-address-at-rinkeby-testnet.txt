@@ -1,0 +1,74 @@
+truffle migrate --network rinkeby --skipDryRun
+> Warning: possible unsupported (undocumented in help) command line option: --skipDryRun
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+
+Starting migrations...
+======================
+> Network name:    'rinkeby'
+> Network id:      4
+> Block gas limit: 10000000 (0x989680)
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'ZhaiToken'
+   ---------------------
+   > transaction hash:    0x3a24e6b0e002947707c85f9683e17314aaa85b46d85a7adc9a269849baa43574
+   > Blocks: 1            Seconds: 21
+   > contract address:    0xA8e9d8621348D3681bAca8D586DeDf2D5be825D6
+   > block number:        6932120
+   > block timestamp:     1596137398
+   > account:             0xED3C5Cc755ed33C62AEdA406Ef520F804137c49C
+   > balance:             23.418710801
+   > gas used:            2785758 (0x2a81de)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.05571516 ETH
+
+
+   Deploying 'SquareVerifier'
+   --------------------------
+   > transaction hash:    0xd2d6d08617109a3963d0273bf7913c97492b2dfc2a56790f83699360102a0cc3
+   > Blocks: 1            Seconds: 21
+   > contract address:    0xD0c1F00Dec9831d976402B51E1b0c178184ed638
+   > block number:        6932122
+   > block timestamp:     1596137428
+   > account:             0xED3C5Cc755ed33C62AEdA406Ef520F804137c49C
+   > balance:             23.390818661
+   > gas used:            1394607 (0x1547af)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.02789214 ETH
+
+
+   Deploying 'SolnSquareVerifier'
+   ------------------------------
+   > transaction hash:    0x9961cd168697f92f059d8219c9ff08f5766fda1f9a481be8567c4c605ee57d36
+   > Blocks: 2            Seconds: 21
+   > contract address:    0x1c2bC477d494Df8781B57b88dc80C1A866Ba529E
+   > block number:        6932124
+   > block timestamp:     1596137458
+   > account:             0xED3C5Cc755ed33C62AEdA406Ef520F804137c49C
+   > balance:             23.311725301
+   > gas used:            3954668 (0x3c57ec)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.07909336 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.16270066 ETH
+
+
+Summary
+=======
+> Total deployments:   3
+> Final cost:          0.16270066 ETH
