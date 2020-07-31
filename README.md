@@ -31,21 +31,6 @@ Create a store front using the [ERC 721 smart contract](https://rinkeby.ethersca
 For testing, purchased 5 Zhai Tokens using a different [address](https://rinkeby.etherscan.io/address/0x35efA7af9432E8A878e1742c08ac50A2eC4E75ED).
 
 
-# References
-## How to run ZoKrates
-
-go to your project folder:
-```shell script
-docker run -v {absolute path of your project folder}/zokrates/code:/home/zokrates/code -ti zokrates/zokrates /bin/bash #run docker and mount zokrates folder
-# now we are inside of docker instance
-cd code/square
-~/zokrates compile -i square.code #compile the program
-~/zokrates setup #setup phase
-~/zokrates compute-witness -a 3 9 #create a witness file
-~/zokrates generate-proof #construct the proof
-~/zokrates export-verifier #creates a verifier.sol contract that contains a verification key and a function verifyTx
-```
-
 ## Project Resources
 
 * [Truffle Framework](https://truffleframework.com/)
