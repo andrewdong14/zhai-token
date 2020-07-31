@@ -27,7 +27,7 @@ This is a tutorial in [YouTube](https://youtu.be/8MChn-NJJB0)
 
 ## Link Zhai Token to OpenSea marketplace
 Create a store front using the [ERC 721 smart contract](https://rinkeby.etherscan.io/address/0xA8e9d8621348D3681bAca8D586DeDf2D5be825D6) we just deoployed, [ZhaiToken@OpenSea](https://rinkeby.opensea.io/assets/zhai-token). Each token in our store represents a property.
-For testing, purchased 5 Zhai Tokens using a different [address](https://rinkeby.etherscan.io/address/0x35efA7af9432E8A878e1742c08ac50A2eC4E75ED)
+For testing, purchased 5 Zhai Tokens using a different [address](https://rinkeby.etherscan.io/address/0x35efA7af9432E8A878e1742c08ac50A2eC4E75ED).
 
 
 # References
