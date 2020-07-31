@@ -6,6 +6,7 @@ The mission of Zhai(宅) Token project is to build a decentrlised, autonomous an
 
 To run the project please use the following:
 ```shell script
+cp secrets.sample.json secrets.json # you need to update mnemonic and provider in secrets.json if you like to deploy to Rinkeby network
 npm install       # to install dependencies
 truffle compile   # to compile smart contracts
 truffle test      # to run smart contract unit tests
