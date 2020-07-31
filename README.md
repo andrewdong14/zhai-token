@@ -1,7 +1,8 @@
 # Zhai Token
 
 The mission of Zhai(宅) Token project is to build a decentrlised, autonomous and transparent real estate marketplace.
-[![Build Status](https://travis-ci.org/andrewdong14/ethereum-docker.svg?branch=master)](https://travis-ci.org/andrewdong14/ethereum-docker)
+
+[![Build Status](https://travis-ci.org/andrewdong14/zhai-token.svg?branch=master)](https://travis-ci.org/andrewdong14/zhai-token)
 ## Running project
 
 To run the project please use the following:
