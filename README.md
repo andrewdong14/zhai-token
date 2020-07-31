@@ -54,3 +54,4 @@ cd code/square
 * [Interactive zero knowledge 3-colorability demonstration](http://web.mit.edu/~ezyang/Public/graph/svg.html)
 * [Docker](https://docs.docker.com/install/)
 * [ZoKrates](https://github.com/Zokrates/ZoKrates)
+* [Test Solidity Smart Contracts Using Travis CI](https://blog.coinfabrik.com/test-solidity-smart-contracts-using-travis-ci/)
