@@ -20,6 +20,14 @@ truffle migrate --network rinkeby --skipDryRun   # deploy to rinkeby testnet
 ```
 rinkeby deployment result and contract addresses: [result](./deployment/contract-address-at-rinkeby-testnet.txt)
 
+## Mint 10 Zhai Tokens
+Use [MyEtherWallet](https://vintage.myetherwallet.com/#contracts) to interact with the contract
+This is a tutorial in [YouTube](https://youtu.be/8MChn-NJJB0)
+
+## Link Zhai Token to OpenSea marketplace
+[ZhaiToken@OpenSea](https://rinkeby.opensea.io/assets/zhai-token). Each token represents a property.
+Purchase 5 Zhai Tokens using a different [address](https://rinkeby.etherscan.io/address/0x35efA7af9432E8A878e1742c08ac50A2eC4E75ED)
+
 
 # References
 ## How to run ZoKrates
